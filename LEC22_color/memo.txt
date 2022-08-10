@@ -1,0 +1,4 @@
+google: color picker
+16진수 색상 선택
+색상 표기법: 16진수, RGB, hsl, 
+https://www.google.com/search?q=color+picker&rlz=1C5CHFA_enKR994KR994&oq=color+pi&aqs=chrome.0.0i131i433i512j69i57j0i512l8.1724j0j7&sourceid=chrome&ie=UTF-8
