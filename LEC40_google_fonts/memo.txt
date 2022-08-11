@@ -1,0 +1,9 @@
+https://fonts.google.com/
+구글 폰트 추가
+
+https://fonts.google.com/specimen/Fira+Sans?query=Fira
+
+가져온 글꼴은 작은 따옴표 사용
+
+폴백 폰트: 구글 서버가 다운되어 해당 글꼴을 사용하지 못한다면, 그 다음 글꼴을 사용토록 한다
+왼쪽->오른쪽 순으로 읽음
