@@ -1,0 +1,6 @@
+css propertyd에는 font-family, text-align 등이 있다.
+css reference
+https://developer.mozilla.org/en-US/docs/Web/CSS/font-family
+html 요소에 css 스타일을 추가
+
+세미콜론을 사용하여 두 번쨰 속성 및 속성값 추가
