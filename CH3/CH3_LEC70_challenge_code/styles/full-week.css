@@ -9,7 +9,7 @@ h1 {
 }
 
 #description {
-  margin-bottom: 0;
+  margin: 8px;
 }
 
 /* header p {
@@ -23,8 +23,8 @@ a {
   border: 1px solid rgb(167, 1, 78);
   border-radius: 4px;
   font-size: 24px;
-  margin: 12px 0;
   display: inline-block;
+  margin: 12px 0;
 }
 
 a:hover {
@@ -33,22 +33,23 @@ a:hover {
 }
 
 ol {
-list-style: none;
-width: 500px;
-margin: 36px auto 0 auto;
-padding: 0;
+  list-style: none;
+  width: 500px;
+  margin: 36px auto 0 auto;
+  padding: 0;
 }
 
 li {
   padding: 16px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
   margin: 32px;
   background-color: rgb(223, 136, 124);
   border-radius: 6px;
 }
 
 h2 {
-  color: rgb(78, 13 ,5);
-  font-family: 'Oswald', sans-serif;
+  color: rgb(78, 13, 5);
+  font-family: "Oswald", sans-serif;
 }
 
 main p {
