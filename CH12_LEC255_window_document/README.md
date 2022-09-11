@@ -3,7 +3,7 @@
 ```
 # 【한글자막】 100일 코딩 챌린지 - 2022 Web Development 부트캠프
 
-### CH10 - 255. 전역 "window" & "document" 객체 [33일차]
+### CH12 - 255. 전역 "window" & "document" 객체 [33일차]
 
 ---
 ### Usage
