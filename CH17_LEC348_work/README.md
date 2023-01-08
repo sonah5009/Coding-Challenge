@@ -3,12 +3,7 @@
 ```
 # 【한글자막】 100일 코딩 챌린지 - 2022 Web Development 부트캠프
 
-### CH15 - 333. 더 많은 부트스트랩 예제 [45일차]
-
-
----
-### BootStrap Link
-- https://getbootstrap.com/docs/5.0/getting-started/introduction/
+### CH17 - 348. 더 많은 서버 측 작업 수행 [47일차]
 
 
 ---

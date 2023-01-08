@@ -3,12 +3,7 @@
 ```
 # 【한글자막】 100일 코딩 챌린지 - 2022 Web Development 부트캠프
 
-### CH15 - 332. 사용자 지정 코드와 타사 패키지 결합 [45일차]
-
-
----
-### BootStrap Link
-- https://getbootstrap.com/docs/5.0/getting-started/introduction/
+### CH17 - 346. 사용자 지정 노드JS 서버 생성 [47일차]
 
 
 ---

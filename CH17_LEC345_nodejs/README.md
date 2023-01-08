@@ -3,12 +3,7 @@
 ```
 # 【한글자막】 100일 코딩 챌린지 - 2022 Web Development 부트캠프
 
-### CH15 - 336. 시차 효과 패키지 추가 [46일차]
-
-
----
-### BootStrap Link
-- https://getbootstrap.com/docs/5.0/getting-started/introduction/
+### CH17 - 345. 노드JS 코드 실행 [47일차]
 
 
 ---
