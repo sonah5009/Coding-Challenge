@@ -1,0 +1,18 @@
+{
+  "name": "ch19_lec367_output",
+  "version": "1.0.0",
+  "description": "``` 💡 IDE 우측 상단의 `미리보기`를 통해 README.md 파일을 읽어주세요! ``` # 【한글자막】 100일 코딩 챌린지 - 2022 Web Development 부트캠프",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "goorm",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

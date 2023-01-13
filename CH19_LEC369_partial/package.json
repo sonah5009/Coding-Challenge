@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  },
+  "name": "ch19_lec369_partial",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "goorm",
+  "license": "MIT"
+}
